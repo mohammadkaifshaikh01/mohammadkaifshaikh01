@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mohammad Kaif</h1>
-<h3 align="center">A passionate Full Stack developer from India</h3>
+<h3 align="center">A passionate Frontend developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mohammadkaifshaikh01&label=Profile%20views&color=0e75b6&style=flat" alt="mohammadkaifshaikh01" /> </p>
 
@@ -9,9 +9,11 @@
 
 - 🔭 I’m currently working on [Mere Man Ka Dabba](https://github.com/Sumitsahani/Mere-Mann-Ka-Dabba)
 
-- 🌱 I’m currently learning **React, Node**
+- 🌱 I’m currently learning **Full Stack Development**
 
 - 👨‍💻 All of my projects are available at [https://kaifshaikhportfolio.netlify.app/](https://kaifshaikhportfolio.netlify.app/)
+
+- 💬 Ask me about **react,Javascript,Html,Css,Tailwind,MongoDb,MySql,Python**
 
 - 📫 How to reach me **mohammadkaif6268@gmail.com**
 
@@ -20,12 +22,10 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/_kaifx_01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="_kaifx_01" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/mohammadkaifshaikh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mohammadkaifshaikh" height="30" width="40" /></a>
-<a href="https://fb.com/mohammadkaifshaikh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="mohammadkaifshaikh" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/mohammad-kaif-shaikh-50aa7628a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/mohammad-kaif-shaikh-50aa7628a/" height="30" width="40" /></a>
 <a href="https://instagram.com/_kaifx_01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_kaifx_01" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/_kaifx_01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="_kaifx_01" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/kaifmasoom786" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="kaifmasoom786" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/_kaifx_01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="_kaifx_01" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
