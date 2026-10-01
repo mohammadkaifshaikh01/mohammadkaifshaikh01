@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/_kaifx_01" target="blank"><img src="https://img.shields.io/twitter/follow/_kaifx_01?logo=twitter&style=for-the-badge" alt="_kaifx_01" /></a> </p>
 
-- 🔭 I’m currently working on [AI Resume Maker](https://github.com/mohammadkaifshaikh01/AI-Resume-Builder)
+- 🔭 I’m currently working on [Nexa Ai Resume](https://github.com/mohammadkaifshaikh01/Nexa-AI-Resume)
 
 - 🌱 I’m currently learning **Full Stack Development**
 
